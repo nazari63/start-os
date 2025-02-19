@@ -80,3 +80,4 @@ There are dozens of services available for StartOS, and new ones are being added
 <img src="assets/welcome.png" alt="StartOS System Settings" width="49%">
 <img src="assets/logs.png" alt="StartOS System Settings" width="49%">
 </p>
+This project is a demonstration of blockchain technology and smart contract integration.
